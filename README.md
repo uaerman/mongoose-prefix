@@ -58,4 +58,4 @@ If you have any issues with the code, please open an issue by [clicking here](ht
 
 ### License
 
-This project is available as open source under the terms of the [Apache License 2.0](https://github.com/chillyixa/mongoose-prefix/blob/master/LICENS)
+This project is available as open source under the terms of the [Apache License 2.0](https://github.com/chillyixa/mongoose-prefix/blob/master/LICENSE)
