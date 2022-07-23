@@ -18,12 +18,7 @@ const {GuildSettings} = require("./schema")
 client.commands = new Collection();
 require("./handlers/commandHandler")
 require("./handlers/eventHandler")(client)
-client.on("messageCreate", async (message) => { 
-  if (message.content === "setprefix") {
-    await GuildSettings.updateOne({guildId: message.guild.id}, {$set: {prefix: "!!"}}, {upsert: true, new: true})
-    message.reply("Done :)")
-  }
-})
+
   mongoose.connect(config.mongodb_sv, {
   useNewUrlParser: true, 
   useUnifiedTopology: true,
