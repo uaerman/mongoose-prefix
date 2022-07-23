@@ -14,7 +14,7 @@ Basically change discord-bot prefix with mongodb.
 
 ### Setting up
 
-If it's your first discord-bot you can clone the project. if not you can read  [here](https://discord.com/users/244847249866096640).
+If it's your first discord-bot you can clone the project.
 
 
 
