@@ -27,7 +27,7 @@ git clone https://github.com/chillyixa/mongoose-prefix
 ```
 ##### Before starting
 
-Before you start the bot you'll need to change the name of `config.sample.json` to `config.json` and then add your bots token along with mongoose connection url.
+Before you start the bot you'll need to change the name of `config.json.example` to `config.json` and then add your bots token along with mongoose connection url.
 
 ```js
 {
