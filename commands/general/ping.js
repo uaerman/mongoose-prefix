@@ -1,4 +1,4 @@
-const { EmbedBuilder } = require("discord.js");
+const { MessageEmbed } = require("discord.js");
 const {colors} = require("../../config")
 module.exports = {
   name: "ping",
@@ -6,7 +6,7 @@ module.exports = {
   async execute(client, message, args) {
     const m = await message.channel.send("Pinging...");
 
-    const embed = new EmbedBuilder()
+    const embed = new MessageEmbed()
       .setTitle("Pong")
       .addFields([
         {name: "⏳ Latency", value: `_**${m.createdTimestamp - message.createdTimestamp}ms**_`},

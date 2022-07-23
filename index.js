@@ -1,15 +1,14 @@
 const mongoose = require("mongoose")
-const { Client, GatewayIntentBits, Partials, Collection } = require("discord.js");
+const { Client, Intents, Permissions, MessageEmbed, Collection } = require("discord.js");
 
 const client = new Client({
   intents: [
-    GatewayIntentBits.Guilds,
-    GatewayIntentBits.MessageContent,
-    GatewayIntentBits.GuildMessages, 
+      Intents.FLAGS.GUILDS,
+      Intents.FLAGS.GUILD_MESSAGES,
   ],
-  partials: [Partials.Channel],
+  partials: ["CHANNEL"]
 })
-
+module.exports = client;
 module.exports = client;
 
 const config  = require("./config.json");
