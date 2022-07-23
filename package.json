@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-prefix",
+  "version": "1.0.0",
+  "description": "Discord bot with mongoose prefix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chillyixa/mongoose-prefix.git"
+  },
+  "author": "chillyixa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chillyixa/mongoose-prefix/issues"
+  },
+  "homepage": "https://github.com/chillyixa/mongoose-prefix#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.0.3",
+    "mongoose": "^6.4.6"
+  }
+}
