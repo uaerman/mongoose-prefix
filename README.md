@@ -9,6 +9,7 @@
 ## Mongoose-Prefix
 
 Basically change discord-bot prefix with mongodb. 
+for discord.js v13
 
 **If you need help add me on [discord](https://discord.com/users/244847249866096640) I will provide you all help. ❤️**
 
