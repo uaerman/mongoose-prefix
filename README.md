@@ -4,13 +4,13 @@
 
 [![discord - account](https://img.shields.io/badge/discord-account-0083c1?logo=discord&logoColor=white)](https://discord.com/users/244847249866096640)
 
-[![repo-issues](https://img.shields.io/github/issues/chillyixa/mongoose-prefix.svg?style=for-the-badge)](https://github.com/chillyixa/mongoose-prefix/issues)[![node-version](https://img.shields.io/badge/NODEJS->=16.16.0-44cc11?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![discord.js - V14.0.3](https://img.shields.io/badge/discord.js-V14.0.3-0083c1?style=for-the-badge&logo=node.js&logoColor=white)](https://www.npmjs.com/package/discord.js)
+[![repo-issues](https://img.shields.io/github/issues/uaerman/mongoose-prefix.svg?style=for-the-badge)](https://github.com/uaerman/mongoose-prefix/issues)[![node-version](https://img.shields.io/badge/NODEJS->=16.16.0-44cc11?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![discord.js - V14.0.3](https://img.shields.io/badge/discord.js-V14.0.3-0083c1?style=for-the-badge&logo=node.js&logoColor=white)](https://www.npmjs.com/package/discord.js)
 
 ## Mongoose-Prefix
 
 Basically change discord-bot prefix with mongodb. for discord.js v14 
 
-[Click here](https://github.com/chillyixa/mongoose-prefix/tree/for-v13)to go v13 edition
+[Click here](https://github.com/uaerman/mongoose-prefix/tree/for-v13) to go v13 edition
 
 **If you need help add me on [discord](https://discord.com/users/244847249866096640) I will provide you all help. ❤️**
 
@@ -25,7 +25,7 @@ First of all, make sure that the following applications are installed completely
 1. You need to install [Node.js](https://nodejs.org/en/) v16.16.0 or higher.
 2. Clone the repo
 ```sh
-git clone https://github.com/chillyixa/mongoose-prefix
+git clone https://github.com/uaerman/mongoose-prefix
 ```
 ##### Before starting
 
@@ -56,8 +56,8 @@ First make sure all modules are downloaded without any problems. Then you can st
 
 ### Support
 
-If you have any issues with the code, please open an issue by [clicking here](https://github.com/chillyixa/mongoose-prefix/issues)
+If you have any issues with the code, please open an issue by [clicking here](https://github.com/uaerman/mongoose-prefix/issues)
 
 ### License
 
-This project is available as open source under the terms of the [Apache License 2.0](https://github.com/chillyixa/mongoose-prefix/blob/master/LICENSE)
+This project is available as open source under the terms of the [Apache License 2.0](https://github.com/uaerman/mongoose-prefix/blob/master/LICENSE)
